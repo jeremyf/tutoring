@@ -1,0 +1,12 @@
+h1. Tutoring
+
+Over the course of this project, I'd like us to make heavy use of git.  I have setup a public repository at "https://github.com/jeremyf/tutoring":https://github.com/jeremyf/tutoring.  From there you'll need to clone the repository and pull the master branch.
+
+It should be noted that in some of these cases we will be muddling through this together.
+
+h2. References for getting started
+
+* "http://help.github.com/":http://help.github.com/
+* "http://gitref.org/":http://gitref.org/
+* "http://book.git-scm.com/":http://book.git-scm.com/
+* "http://ktown.kde.org/~zrusin/git/":http://ktown.kde.org/~zrusin/git/
